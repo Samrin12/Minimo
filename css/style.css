@@ -1,0 +1,330 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin-left: 9%;
+
+overflow: hidden;
+
+margin-top: 15px;
+
+margin-bottom: 15px;
+}
+.logo{
+
+width: 30%;
+
+float: left;
+}
+.logo img{
+
+}
+.menu{
+
+float: right;
+
+overflow: hidden;
+
+width: 70%;
+}
+.menu ul{
+
+float: right;
+
+overflow: hidden;
+
+list-style: none;
+}
+.menu ul li{
+
+float: left;
+
+margin-right: 135px;
+
+margin-top: 11px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.image{
+
+width: 90%;
+
+margin-top: 47px;
+
+text-align: center;
+
+margin-left: 5%;
+margin-bottom: 10px;
+}
+.image img{
+    
+width: 100%;
+}
+.content{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 100px;
+    margin-right: 10%;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.content h1{
+
+padding-top: 30px;
+
+font-size: 35px;
+
+padding-bottom: 30px;
+color:#535353;
+}
+.content p{
+
+font-size: 22px;
+color: #CDCDCA;
+}
+h4{
+    padding-bottom: 30px;
+    color: #9B9B9B;
+    font-size;: 18px
+}
+h1{
+    color:#535353;
+    font-size: 35px;
+    padding-bottom: 30px;
+}
+p{
+    color: #CDCDCA;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+.example1{
+
+width: 80%;
+
+margin-left: 10%;
+
+margin-top: 90px;
+
+margin-right: 10%;
+
+margin-bottom: 40px;
+}
+.row1{
+
+width: 100%;
+
+overflow: hidden;
+
+margin-bottom: 40px;
+}
+.ex1{
+
+float: left;
+
+width: 47%;
+
+margin-right: 6%;
+}
+.ex1 img{
+
+padding-bottom: 25px;
+
+width: 100%;
+}
+.ex2{float: right;width: 47%;}
+.ex2 img{
+
+padding-bottom: 25px;
+
+width: 100%;
+}
+.row2{
+
+width: 100%;
+
+overflow: hidden;
+
+margin-top: 70px;
+
+margin-bottom: 20px;
+}
+.ex3{
+
+width: 47%;
+
+margin-right: 6%;
+
+float: left;
+}
+.ex3 img{
+    
+padding-bottom: 25px;
+    
+width: 100%;
+}
+.ex4{
+
+width: 47%;
+
+float: right;
+}
+.ex4 img{
+
+padding-bottom: 25px;
+
+width: 98%;
+}
+.email{width: 100%;background-color: #F0F0F0;text-align: center;height: 270px;margin-top: 90px;margin-bottom: 20px;}
+.textbox{width: 30%;text-align: left;margin-left: 35%;border-bottom:  1px solid;padding-top: 44px;background-color: #F0F0F0;}
+.email h1{
+    
+padding-top: 70px;
+}
+.textbox input{
+    
+border: none;
+    
+outline: none;
+    
+font-size: 18px;
+    
+background-color: #F0F0F0;
+}
+.example2{
+
+width: 80%;
+
+margin-left: 10%;
+
+margin-top: 100px;
+
+overflow: hidden;
+
+margin-bottom: 20px;
+}
+.ex5{
+
+width: 47%;
+
+float: left;
+
+margin-right: 6%;
+}
+.ex5 img{
+
+padding-bottom: 25px;
+
+width: 100%;
+}
+.ex6{
+
+width: 47%;
+
+float: left;
+}
+.ex6 img{
+    
+padding-bottom: 25px;
+    
+width: 96%;
+}
+.button{
+
+width: 100%;
+
+text-align: center;
+
+margin-top: 95px;
+
+margin-bottom: 20px;
+}
+.button button{
+    
+outline-color: #959595;
+    
+color: #959595;
+    
+padding: 20px 40px;
+    
+text-align: center;
+    
+font-size: 18px;
+}
+i{
+    color: black;
+}
+footer{
+
+margin-top: 100px;
+
+margin-bottom: 25px;
+
+width: 100%;
+
+overflow: hidden;
+
+background-color: #F0F0F0;
+
+height: 110px;
+}
+.terms{
+
+width: 50%;
+
+float: left;
+
+padding-top: 45px;
+}
+.terms ul{
+
+overflow: hidden;
+
+list-style: none;
+
+padding-left: 150px;
+}
+.terms ul li{
+
+font-size: 20px;
+
+float: left;
+
+color: #7B7B7B;
+
+padding-right: 30px;
+}
+.icon{
+
+float: right;
+
+width: 50%;
+
+overflow: hidden;
+}
+.icon ul{list-style: none;overflow: hidden;margin-right: 50px;float: right;padding-top:  45px;}
+.icon ul li{
+
+float: left;
+
+padding-left: 30px;
+
+color: #A0A0A0;
+
+font-size: large;
+}
+.icon ul li a{
+
+}
+.icon ul li a i{
+    
+font-size: large;
+    
+color: #A0A0A0;
+}
